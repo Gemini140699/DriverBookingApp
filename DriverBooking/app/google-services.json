@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834724183838",
+    "project_id": "driver-booking-c7f1e",
+    "storage_bucket": "driver-booking-c7f1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834724183838:android:d7de2dc7ed1c97c86e930f",
+        "android_client_info": {
+          "package_name": "com.example.driverbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834724183838-6hiivhiq6so7ta5e2slksa6eqapp3ssf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr1p0mIkG2gs8lXxDt803wK7b7ux2yOqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834724183838-6hiivhiq6so7ta5e2slksa6eqapp3ssf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
